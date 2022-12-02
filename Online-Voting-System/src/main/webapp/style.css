@@ -1,0 +1,147 @@
+
+body
+{
+	margin:0;
+	font-size:30px;
+	background-image:url("https://cdn.pixabay.com/photo/2018/08/15/07/19/indian-flag-3607410_960_720.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family:Arial,Alvetica,sans-serif;
+	padding-bottom:30px;
+}
+
+.nav-bar
+{
+	color:white;
+	overflow:hidden;
+	display:flex;
+	justify-content:right;
+	padding:35px;
+	font-size:30px;
+	background-color:#FF731D;
+}
+.nav-bar a
+{
+	color:white;
+	margin-left:30px;
+	margin-right:20px;
+	cursor:pointer;
+}
+
+.form-container
+{
+	width:30%;
+	height:20%;
+	display:flex;
+	justify-content:center;
+	background-color:#FFF7E9;
+	border-radius:40px;
+	margin-left:60%;
+	margin-top:90px;
+	padding-top:100px;
+	padding-left:70px;
+	padding-bottom:80px;
+}
+
+.form-container h3
+{
+	margin-left:0;
+}
+
+.form-elements
+{
+	font-size:30px;
+	margin-left:0;
+	margin-top:20px;
+	margin-bottom:20px;
+	border:2px;
+	border-radius:30px;
+	height:50px;
+}
+
+.form-label
+{
+	margin-left:0;
+}
+
+.form-input
+{
+	text-align:center;
+	background-color:#5F9DF7;
+	width:80%;
+}
+
+.form-button
+{
+	background-color:#5F9DF7;
+	width:80%;
+	cursor:pointer;
+}
+
+.form-container a
+{
+	color:black;
+	cursor:pointer;
+	margin-top:35px;
+}
+
+.index-a
+{
+	margin-left:32%;
+}
+
+.admin-a
+{
+	margin-left:20%;
+}
+
+
+.about
+{
+	font-family:Helvetica;
+	width:100vx;
+	height:80vh;
+	padding-left:20px;
+	opacity:0.8;
+	background-color:#FFF7E9;
+}
+
+.about p
+{
+	padding-top:40px;
+	font-weight:bold;
+}
+ 
+.about img
+{
+	width:400px;
+	height:400px;
+	margin-right:10px;
+}
+
+.checkTable
+{
+	background-color:#FFF7E9;
+	height:87vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.checkTable img
+{
+	height:100px;
+	width:100px;
+}
+
+.checkTable td,th
+{
+	padding:10px 60px;
+}
+
+
+
+
+
+
+
